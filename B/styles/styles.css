@@ -71,6 +71,11 @@ html, body{
     width:600px;
 }
 
+.results-container{
+    margin:0 auto 0 auto;
+    width:950px;
+}
+
 .btn{
     float:right;
     margin-top:10px;
@@ -90,6 +95,18 @@ input[type=text]{
     border-radius:5px;
     color:#3399ff;
     font-size:22px;
+}
+
+
+td,th {
+    
+    font-size: 14px;
+    width:110px;
+    text-align:right;
+}
+
+th {
+   font-weight:bold; 
 }
 
 
